@@ -275,4 +275,5 @@ game:GetService("UserInputService").InputBegan:Connect(function(input, gameProce
         player.Character:SetPrimaryPartCFrame(CFrame.new(targetPosition))
     end
 end)
+
 ```
