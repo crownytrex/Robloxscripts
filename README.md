@@ -1,6 +1,6 @@
 # Robloxscripts
 ```
-https://tinyurl.com/robloxscript1
+--[[ https://tinyurl.com/robloxscript1 ]]--
 ```
 
 
