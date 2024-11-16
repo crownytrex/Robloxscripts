@@ -4,7 +4,8 @@
 
 
 
-```local player = game.Players.LocalPlayer
+```
+local player = game.Players.LocalPlayer
 local mouse = player:GetMouse()
 
 -- Create ScreenGui
